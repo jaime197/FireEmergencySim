@@ -1,0 +1,32 @@
+<libraries>
+  <library
+      name="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\7efb9a3338cff103f6d1e99a5d1f8565\transformed\out\jars\classes.jar;C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\7efb9a3338cff103f6d1e99a5d1f8565\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\7efb9a3338cff103f6d1e99a5d1f8565\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\e965d6a93dff8695d83db691a2b303d4\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\e965d6a93dff8695d83db691a2b303d4\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

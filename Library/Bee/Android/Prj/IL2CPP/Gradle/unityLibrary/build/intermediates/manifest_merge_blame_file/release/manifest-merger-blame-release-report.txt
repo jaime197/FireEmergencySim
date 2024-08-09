@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="29"
+7-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="34" />
+8-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11
+12    <uses-feature
+12-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-90
+13        android:name="android.hardware.vulkan.version"
+13-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:17-63
+14        android:required="true" />
+14-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:64-87
+15    <uses-feature
+15-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-88
+16        android:name="android.hardware.touchscreen"
+16-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-60
+17        android:required="false" />
+17-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:61-85
+18    <uses-feature
+18-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-99
+19        android:name="android.hardware.touchscreen.multitouch"
+19-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-71
+20        android:required="false" />
+20-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:72-96
+21    <uses-feature
+21-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-108
+22        android:name="android.hardware.touchscreen.multitouch.distinct"
+22-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-80
+23        android:required="false" />
+23-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:81-105
+24
+25    <application android:extractNativeLibs="true" >
+25-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-23:17
+25-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+26        <meta-data
+26-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:5-69
+27            android:name="unity.splash-mode"
+27-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:16-48
+28            android:value="0" />
+28-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:49-66
+29        <meta-data
+29-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:5-74
+30            android:name="unity.splash-enable"
+30-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:16-50
+31            android:value="True" />
+31-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:51-71
+32        <meta-data
+32-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:5-78
+33            android:name="unity.launch-fullscreen"
+33-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:16-54
+34            android:value="True" />
+34-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:55-75
+35        <meta-data
+35-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:5-84
+36            android:name="unity.render-outside-safearea"
+36-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-60
+37            android:value="True" />
+37-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:61-81
+38        <meta-data
+38-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-81
+39            android:name="notch.config"
+39-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-43
+40            android:value="portrait|landscape" />
+40-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:44-78
+41        <meta-data
+41-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-84
+42            android:name="unity.auto-report-fully-drawn"
+42-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-60
+43            android:value="true" />
+43-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:61-81
+44
+45        <activity
+45-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-22:16
+46            android:name="com.unity3d.player.UnityPlayerActivity"
+46-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:15-68
+47            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+47-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:180-361
+48            android:exported="true"
+48-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:433-456
+49            android:hardwareAccelerated="false"
+49-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:397-432
+50            android:launchMode="singleTask"
+50-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:148-179
+51            android:resizeableActivity="false"
+51-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:362-396
+52            android:screenOrientation="fullUser"
+52-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:111-147
+53            android:theme="@style/UnityThemeSelector" >
+53-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:69-110
+54            <intent-filter>
+54-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:7-19:23
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:9-69
+55-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:19-66
+56
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:9-61
+57-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:17-58
+58            </intent-filter>
+59
+60            <meta-data
+60-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:7-82
+61                android:name="unityplayer.UnityActivity"
+61-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:18-58
+62                android:value="true" />
+62-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:59-79
+63            <meta-data
+63-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:7-70
+64                android:name="notch_support"
+64-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:18-46
+65                android:value="true" />
+65-->C:\Users\jaime\Documents\U-tad\PrimerCuatri\Sistemas Inmersivos\Create-with-VR_2022LTS\VR Room - Jaime\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:47-67
+66        </activity>
+67    </application>
+68
+69</manifest>
